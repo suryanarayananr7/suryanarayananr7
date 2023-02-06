@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Surya Narayanan R</h1>
 <h3 align="center">I am a enthusiastic Python developer who is passionate about using my skills to solve problems, and motivated to make a meaningful impact in the field of Data Science.</h3>
 
-- 💬 Ask me about **Python, Machine-Learning, Data-Science**
-
 - 👨‍💻 Developed various projects based on **Machine-learning** and **Artificial Intelligence** 
 
 - ⚡Performed **Data-Preprocessing** using **Pandas** for **large datasets**. 
+
+- 💬 Ask me about **Python, Machine-Learning, Data-Science**
 
 - 🌱 I’m currently learning **Django, JavaScript**
 
