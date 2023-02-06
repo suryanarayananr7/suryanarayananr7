@@ -3,7 +3,7 @@
 
 - 👨‍💻 Developed various projects based on **Machine-learning** and **Artificial Intelligence** 
 
-- ⚡Performed **Data-Preprocessing** using **Pandas** for **large datasets**. 
+- ⚡ Performed **Data-Preprocessing** using **Pandas** for **large datasets**. 
 
 - 💬 Ask me about **Python, Machine-Learning, Data-Science**
 
