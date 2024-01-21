@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surya Ramakrishnan</h1>
-<h3 align="center">I am a enthusiastic Python developer who is passionate about using my skills to solve problems, and motivated to make a meaningful impact in the field of Data Analysis and Data Science.</h3>
+<h3 align="center">I am a enthusiastic data analyst / data scientist who is passionate about using my skills to solve problems, and motivated to make a meaningful impact in the field of Data Analysis and Data Science.</h3>
 
 -  Developed various projects based on **Building Dashboards using PowerBI**,  **Implementing Predictive and Statistical Models using various Machine Learning and Artificial Intelligence algorithms with the help of Python and Scikit-Learn**  
 
