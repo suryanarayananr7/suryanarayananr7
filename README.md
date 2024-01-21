@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Surya Narayanan R</h1>
-<h3 align="center">I am a enthusiastic Python developer who is passionate about using my skills to solve problems, and motivated to make a meaningful impact in the field of Data Science.</h3>
+<h3 align="center">I am a enthusiastic Python developer who is passionate about using my skills to solve problems, and motivated to make a meaningful impact in the field of Data Analysis and Data Science.</h3>
 
-- 👨‍💻 Developed various projects based on **Machine-learning** and **Artificial Intelligence** 
+-  Developed various projects based on **Building Dashboards using PowerBI**,  **Implementing Predictive and Statistical Models using various Machine Learning and Artificial Intelligence algorithms with the help of Python and Scikit-Learn**  
 
-- ⚡ Performed **Data-Preprocessing** using **Pandas** for **large datasets**. 
+-  Performed **Data-Preprocessing** using **Excel**,  **PowerBI** and **SQL** for **large datasets**
 
-- 💬 Ask me about **Python, Machine-Learning, Data-Science**
+-  Implemented ETL and Data Transformation for large datasets with the help of using Power Query and Dax Functions using **PowerBI**
 
-- 🌱 I’m currently learning **Django, JavaScript**
+-  Developed APIs to handle customer payments and transactions using **Flask and Python** and performed API testing using **Postman**.
+
+-  Ask me about **Python, Machine-Learning, Data Analysis, Data Visualization and Data-Science**
 
 - 📫 How to reach me **suryanarayananr4683@gmail.com**
 
